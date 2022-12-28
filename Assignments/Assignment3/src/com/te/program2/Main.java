@@ -1,7 +1,7 @@
 package com.te.program2;
 
 import java.util.Scanner;
-//sum of power of elements Arrays
+//2.Difference between largest and smallest elements in an array
 public class Main {
 public static void main(String[] args) {
 	Scanner scanner=new Scanner(System.in);

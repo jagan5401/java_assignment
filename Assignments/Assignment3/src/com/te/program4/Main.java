@@ -1,4 +1,4 @@
-package com.te.program3;
+package com.te.program4;
 
 import java.util.Scanner;
 //Largest Element
@@ -12,7 +12,7 @@ public static void main(String[] args) {
 	for (int i = 0; i < array.length; i++) {
 		array[i]=scanner.nextInt();
 	}
-	System.out.println(UserMainCode.getBigDiff(array));
+	System.out.println(UserMainCode.averageElements(array));
 	
 }
 }

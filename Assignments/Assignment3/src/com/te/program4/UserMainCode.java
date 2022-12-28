@@ -1,9 +1,9 @@
-package com.te.program3;
+package com.te.program4;
 
 import java.util.Arrays;
 
 public class UserMainCode {
-	static Integer getBigDiff(Integer array[]){
+	static Integer averageElements(Integer array[]){
 		Arrays.sort(array);
 		//System.out.println(array[array.length-1]);
 		
